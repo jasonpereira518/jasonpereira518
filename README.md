@@ -26,11 +26,16 @@ Here are some ideas to get you started:
 
 -->
 
-👋 Hi, I'm Jason — CS + Business student at UNC Chapel Hill  
+**Jason Pereira**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=800&color=858585&random=true&width=435&lines=Software+Engineer;Data+Scientist;Full-Stack+Developer;Life-Long+Learner)](https://git.io/typing-svg)  
+👋 Hi, I'm Jason — CS + Statistics student at UNC  
 💻 Building data-driven apps & programs for real-world problems  
-📊 Researching various concepts using Python/ML, always seeking to learn
+📊 Researching various concepts using Python/ML, always seeking to learn  
 🚀 Projects include TarHeelEats (UNC dining recommender), NLPFinance (natural language processing model), and SwiftUI app prototypes  
-📫 Reach me: jasonpereira518@gmail.com
+📫 Get in Touch: jasonpereira518@gmail.com
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jasonpereira518&label=Profile%20views&color=ce9927&style=flat" alt="jasonpereira518" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonpereira518&label=Profile%20views&color=7ab0dc&style=flat" alt="jasonpereira518" /> </p>
+
+
+<p align="left"> <img src="https://typograssy.deno.dev/api?text=Jason%20Pereira" alt="jasonperei2ra518" /> </p>
