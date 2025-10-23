@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonpereira518&label=Profile%20views&color=7ab0dc&style=flat" alt="jasonpereira518" /> </p>
 
 
-<p align="left"> <img src="https://typograssy.deno.dev/api?text=Jason%20Pereira" alt="jasonperei2ra518" /> </p>
+<p align="left"> <img src="https://typograssy.deno.dev/api?text=Jason%20Pereira&l1=7bafd4&l2=007fae&l3=5a7aaa&l4=405b77&comment=jasonpereira.netlify.app" alt="jasonperei2ra518" /> </p>
