@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 **Jason Pereira**  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=800&color=858585&random=true&width=435&lines=Software+Engineer;Data+Scientist;Full-Stack+Developer;Life-Long+Learner)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=800&color=858585&width=435&lines=Software+Engineer;Data+Scientist;Full-Stack+Developer;Life-Long+Learner)](https://git.io/typing-svg)  
 👋 Hi, I'm Jason — CS + Statistics student at UNC  
 💻 Building data-driven apps & programs for real-world problems  
 📊 Researching various concepts using Python/ML, always seeking to learn  
