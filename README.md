@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 **This is Jason Pereira, I'm a**  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=800&color=858585&width=435&lines=Software+Engineer;Data+Scientist;Full-Stack+Developer;Life-Long+Learner)](https://git.io/typing-svg)  
-👋 Hi, I'm Jason — CS + Statistics student at UNC  
-💻 Building data-driven apps & programs for real-world problems  
-📊 Researching various concepts using Python/ML, always seeking to learn  
-🚀 Projects include TarHeelEats (UNC dining recommender), NLPFinance (natural language processing model), and SwiftUI app prototypes  
-📫 Get in Touch: jasonpereira518@gmail.com
+Hi, I'm Jason — CS + Statistics student at UNC  
+Building data-driven apps & programs for real-world problems  
+Researching various concepts using Python/ML, always seeking to learn  
+Projects include Case Closed (legal ai precedent research tool), NLPFinance (natural language processing model), and SwiftUI app prototypes  
+Get in Touch: jasonpereira518@gmail.com
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonpereira518&label=Profile%20views&color=7ab0dc&style=flat" alt="jasonpereira518" /> </p>
