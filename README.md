@@ -33,9 +33,6 @@ Building data-driven apps & programs for real-world problems
 Researching various concepts using Python/ML, always seeking to learn  
 Projects include Case Closed (legal ai precedent research tool), NLPFinance (natural language processing model), and SwiftUI app prototypes  
 Get in Touch: jasonpereira518@gmail.com
-
+Portfolio: https://jasonpereira.live
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonpereira518&label=Profile%20views&color=7ab0dc&style=flat" alt="jasonpereira518" /> </p>
-
-
-<p align="left"> <img src="https://typograssy.deno.dev/api?text=Jason%20Pereira&l1=7bafd4&l2=007fae&l3=5a7aaa&l4=405b77&comment=jasonpereira.netlify.app" alt="jasonpereira518" /> </p>
