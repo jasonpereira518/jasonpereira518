@@ -32,7 +32,7 @@ Hi, I'm Jason — CS + Statistics student at UNC
 Building data-driven apps & programs for real-world problems  
 Researching various concepts using Python/ML, always seeking to learn  
 Projects include Case Closed (legal ai precedent research tool), NLPFinance (natural language processing model), and SwiftUI app prototypes  
-Get in Touch: jasonpereira518@gmail.com
+Get in Touch: jasonpereira518@gmail.com  
 Portfolio: https://jasonpereira.live
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonpereira518&label=Profile%20views&color=7ab0dc&style=flat" alt="jasonpereira518" /> </p>
